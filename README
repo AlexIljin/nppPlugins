@@ -1,0 +1,25 @@
+This is the plugins.xml repository for the plugin manager for Notepad++
+
+It is managed by davegb3, pull requests should be sent to him.
+
+Documentation is at http://www.brotherstone.co.uk/npp/pm
+
+files.sql holds the md5sums of the valid plugin files, this needs to be kept 
+up to date too.
+
+Branch: next
+This is the branch that is used for collecting the next round of updates
+
+Branch: live
+This is in-sync with what is in production.  The next branch is merged into this
+branch when it is ready to be pushed up to live.
+
+Note that the real live file is a linearized version of the one held in the
+repository - the repository copy should always remain the indented "pretty 
+printed" version.
+
+Cheers,
+
+Dave + the Notepad++ team.
+
+
